@@ -3,8 +3,8 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 $servername = "127.0.0.1";
-$username = "root";
-$password = "";
+$username = "auditoriasrsl";
+$password = "yHTT5LFuuUnYiW8";
 $database = "rls";
 
 // Creamos la conexión y seleccionamos la base de datos

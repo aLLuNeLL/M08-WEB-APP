@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -31,9 +34,7 @@
                     <li class="link"><a href="php/servicios.php" class="link">Servicios</a></li>
                     <li class="link"><a href="php/equipo.php" class="link">Equipo</a></li>
 
-                    <?php
-                    session_start();
-
+		    <?php
                     ini_set('display_errors', 1);
                     error_reporting(E_ALL);
 

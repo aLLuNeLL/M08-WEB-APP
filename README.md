@@ -1,5 +1,12 @@
 Pasos a seguir para el funcionamiento:
 
+**ANTES DE EMPEZAR**
+Tener instalado: docker
+
+```
+apt update && apt install docker -y
+```
+
 1. GIT CLONE:
 
   Se hace un git clone del repositorio entero: 
